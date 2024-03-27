@@ -6,7 +6,7 @@
 This web app tracks user  expenses and it is easy to use
 
 
-
+## How to use
 -- To run, use the command npm start.
 
 -- You can choose the type of expenses you want to track, Income or Expense
